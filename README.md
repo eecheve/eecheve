@@ -26,7 +26,8 @@ eecheve@ncsu.edu
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eecheve&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eecheve&layout=compact&langs_count=8&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-Dynamically generated stats for github readmes from [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
+<sup>Dynamically generated stats for github readmes from [anuraghazra](https://github.com/anuraghazra/github-readme-stats)</sup>
 
 
 <!---
