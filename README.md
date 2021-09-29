@@ -20,6 +20,8 @@ eecheve@ncsu.edu
 ![](https://img.shields.io/badge/Platform-Oculus-informational?style=flat&logo=Oculus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Modeling-Blender-informational?style=flat&logo=Blender&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Modeling-Maya-informational?style=flat&logo=Adobe&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Gimp-informational?style=flat&logo=Gimp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Inkscape-informational?style=flat&logo=Inkscape&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
