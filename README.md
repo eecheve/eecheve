@@ -24,7 +24,7 @@ eecheve@ncsu.edu
 ![](https://img.shields.io/badge/Design-Inkscape-informational?style=flat&logo=Inkscape&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visualization-neo4j-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visualization-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a)
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eecheve&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
