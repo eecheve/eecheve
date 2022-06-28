@@ -7,10 +7,11 @@ My name is Emmanuel Echeverri. I am a Chemist with experience in Organic Synthes
 - Molecular Modeling & Animations `Blender`, `Maya`
 - Chemistry Disciplines - `Organic Chemistry`, `Computational Chemistry`
 - Chemistry Education - `Visual-Spatial Skills`, `Representational Competence`, `Self-regulated Learning`
-- Others - `Data Visualization`, `Qualitative Analysis`
+- Research Skills - `Data Visualization`, `Qualitative Analysis`, `Semi-structured Interviews`
 
 ## 📧 Contact 
 eecheve@ncsu.edu
+ei.echeverri2@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
