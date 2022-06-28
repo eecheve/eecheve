@@ -10,8 +10,8 @@ My name is Emmanuel Echeverri. I am a Chemist with experience in Organic Synthes
 - Research Skills - `Data Visualization`, `Qualitative Analysis`, `Semi-structured Interviews`
 
 ## 📧 Contact 
-eecheve@ncsu.edu
-ei.echeverri2@gmail.com
+- eecheve@ncsu.edu
+- ei.echeverri2@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
