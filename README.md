@@ -1,5 +1,5 @@
 ## 👋 Hi!
-My name is Emmanuel Echeverri. I am a Chemistry Ph.D. candidate defending in August 2022. My doctoral dissertation focused on the design and development of VR Learning Environments. I am interested in the development of educational XR projects, data visualization and 3D modelling and animation. Find me on [LinkedIn](https://www.linkedin.com/in/emmanuel-echeverri-jimenez/)
+My name is Emmanuel Echeverri. I have a Ph.D. in Chemistry Education, focused on the design and development of VR Learning Environments. I am interested in the development of educational XR projects, data visualization and 3D modelling and animation. Find me on [LinkedIn](https://www.linkedin.com/in/emmanuel-echeverri-jimenez/)
 
 ## 👨‍🔬 Interests
 - Virtual Reality Learning Environments `Unity`, `Oculus Quest`, `Oculus Rift`
