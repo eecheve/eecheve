@@ -5,7 +5,7 @@ I'm currently a postdoctoral reseach fellow at the University of Louisville at t
 ## 👨‍🔬 Interests
 - Virtual Reality Learning Environments `Unity`, `Oculus Quest`, `Oculus Rift`
 - Augmented Reality for Organic Chemistry `Unity`
-- Molecular Modeling & Animations `Blender`, `Maya`
+- Molecular Modeling & Animations `Blender`, `Maya`, `Threejs`
 - Chemistry Disciplines - `Organic Chemistry`, `Computational Chemistry`
 - Chemistry Education - `Visual-Spatial Skills`, `Representational Competence`, `Self-regulated Learning`
 - Research Skills - `Data Visualization`, `Qualitative Analysis`, `Semi-structured Interviews`
@@ -21,6 +21,7 @@ I'm currently a postdoctoral reseach fellow at the University of Louisville at t
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Oculus-informational?style=flat&logo=Oculus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Modeling-Blender-informational?style=flat&logo=Blender&logoColor=white&color=2bbc8a)
